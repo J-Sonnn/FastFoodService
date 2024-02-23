@@ -12,10 +12,6 @@ The project consists of three main applications:
 
 3. **employee-application**: An application for fast-food employees, providing functionality for order processing and inventory management.
 
-## Technologies
-
-The project is written in Java using the Spring framework. Each application uses Spring Boot for simplified configuration and deployment.
-
 ## Technologies and Dependencies
 
 The project is built using the following technologies and dependencies:
