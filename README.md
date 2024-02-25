@@ -2,6 +2,8 @@
 
 FastFoodService is a comprehensive application for managing a fast-food network, providing various functionalities for administrators, users, and fast-food employees.
 
+P.S. The app does not support delivery. It only displays information about the order to employees, and then the store independently organizes delivery.
+
 ## Project Structure
 
 The project consists of three main applications:
